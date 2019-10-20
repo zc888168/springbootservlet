@@ -1,4 +1,4 @@
-package com.learn.servlet.springbootservlet;
+package com.learn.servlet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
