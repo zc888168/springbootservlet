@@ -49,6 +49,21 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>szkingdom.yf.koca.core</groupId>
+			<artifactId>koca-security-core</artifactId>
+			<version>1.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>szkingdom.yf.koca.core</groupId>
+			<artifactId>koca-security-springsecurity</artifactId>
+			<version>1.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>szkingdom.yf.koca.core</groupId>
+			<artifactId>koca-security-token</artifactId>
+			<version>1.0.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
